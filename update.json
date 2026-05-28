@@ -1,5 +1,7 @@
 {
   "apk_version": "1.0.1",
-  "apk_url": "https://raw.githubusercontent.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ/main/apk/app-release.apk",
-  "notes": "Додано нові функції та покращено інтерфейс!"
+  "apk_url": "https://raw.githubusercontent.com/SashaMinahmetov/Update/main/app-debug.apk",
+  "notes": "Что нового:\n— Добавлен автоматический поиск обновлений при запуске\n— Исправлены мелкие ошибки в расчете скидок\n— Улучшена стабильность на старых версиях Android",
+  "version": "1.0.0",
+  "url": ""
 }
